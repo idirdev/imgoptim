@@ -18,5 +18,9 @@
   },
   "bin": {
     "imgoptim": "bin/cli.js"
+  },
+  "homepage": "https://github.com/idirdev/imgoptim",
+  "bugs": {
+    "url": "https://github.com/idirdev/imgoptim/issues"
   }
 }
